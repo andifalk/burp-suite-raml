@@ -1,2 +1,3 @@
-# burp-suite-raml
-Burp Suite extension for RESTful API testing using RAML specifications.
+# Burp Suite RAML
+
+## Burp Suite extension for RESTful API testing using RAML specifications.
